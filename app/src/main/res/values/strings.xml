@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search">Search</string>
+    <string name="imageDescription">Kotlin Image</string>
+    <string name="name">Name</string>
+    <string name="nameHint">Enter Name</string>
+    <string name="email">Email</string>
+    <string name="emailHint">Enter Email</string>
+    <string name="button">Submit</string>
+</resources>
